@@ -1,0 +1,7 @@
+An algorithm would be called efficient if it minimizes the average waiting time of patients. It would be fair if it treats all patients equally, i.e irrespective of their time of arrival or urgency.
+
+The SJF prioritizes patients with the shortest estimated treatment time. This means that patients who are less sick or injured will be treated sooner, which can help to reduce the overall workload on the emergency room staff.
+
+The PS prioritizes patients with the highest urgency level. This means that patients who are more sick or injured will be treated sooner, regardless of their arrival time.
+
+In the scenario above, the SJF algorithm will result in the shortest average waiting time for patients. The PS algorithm will result in the fairest treatment of patients.
